@@ -114,3 +114,9 @@ packs/RP/pack_icon.png
 - Extended dancing only works in chunks loaded near players, which is fine
   for a room the player is in.
 - Verified in singleplayer. The Realm setup is the user's to confirm.
+
+## Publishing
+
+GitHub repo: github.com/liangforstudy/ParrotPartyRange. After `./build.sh`, commit
+`download/ParrotPartyRange.mcaddon` (build.sh copies it there). The README download link
+points at that file on main, so it always serves the latest build.
