@@ -1,0 +1,61 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Parrot Party Range BP",
+    "description": "Parrots dance up to 10 blocks across and 6 blocks up/down from a playing jukebox",
+    "uuid": "6b74ffdd-dd58-4e57-8c71-2f86e45a1caa",
+    "version": [
+      1,
+      5,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      90
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "fa65601d-9e1e-47f3-bc3d-e04f4dbddb6f",
+      "version": [
+        1,
+        5,
+        0
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "15d4062e-4a5e-41fa-a92f-81c9e01373d8",
+      "version": [
+        1,
+        5,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f4f6d874-764b-418e-9da9-9e11d65434e6",
+      "version": [
+        1,
+        5,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    }
+  ],
+  "metadata": {
+    "product_type": "addon"
+  }
+}
