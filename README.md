@@ -1,6 +1,6 @@
 # Parrot Party Range
 
-A Minecraft Bedrock add-on that makes parrots dance from much further away from a playing jukebox.
+A Minecraft Bedrock add-on that lets parrots dance to a playing jukebox from much further away.
 
 **[Download ParrotPartyRange.mcaddon](https://github.com/liangforstudy/ParrotPartyRange/raw/main/download/ParrotPartyRange.mcaddon)**
 
